@@ -1,0 +1,523 @@
+@page "/resultados/"
+@page "/resultados/{racename}"
+
+@using System.Text.RegularExpressions;
+
+@inject IResultadoData _dbResultado
+
+
+<div class="resultadoProva">
+    <h1>@racename</h1>    
+    <div class="tabela">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Posição Final</th>
+                    <th>Veículo</th>
+                    <th>Nome Piloto</th>
+                    <th>Tempo de Prova</th>
+                    <th>Tempo de Qualificação</th>
+                    <th>Posição Inicial</th>
+                    <th>Pontos Obtidos</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var resultado in resultados)
+                {
+                    <tr>
+                        @foreach (var infoRes in resultado)
+                        {
+
+                            @switch (@infoRes)
+                            {
+                            case "Lewis Hamilton":
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021mercedes.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020mercedes.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019mercedes.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Valtteri Bottas":
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021mercedes.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020mercedes.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019mercedes.png" alt="" border=3 height=60px width=200px></td>
+                                       break;
+                                    default:
+                                       <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Max Verstappen":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021redbull.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020redbull.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019redbull.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Pierre Gasly":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021alphatauri.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020alphaTauri.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019redbull.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Yuki Tsunoda":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021alphatauri.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Lando Norris":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021mclaren.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020mclaren.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019mclaren.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Daniel Ricciardo":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021mclaren.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020renault.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019renault.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Nico Hülkenberg":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2020:
+                                        <td><img src="/2020cars/2020renault.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019renault.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Carlos Sainz":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021ferrari.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020mclaren.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019mclaren.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Charles Leclerc":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021ferrari.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020ferrari.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019ferrari.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Daniil Kvyat":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2020:
+                                        <td><img src="/2020cars/2020alphatauri.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019tororosso.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Alexander Albon":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2020:
+                                        <td><img src="/2020cars/2020redbull.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019tororosso.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Sebastian Vettel":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021astonmartin.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020ferrari.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019ferrari.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Lance Stroll":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021astonmartin.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020racingpoint.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019racingpoint.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Sergio Pérez":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021redbull.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020racingpoint.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019racingpoint.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Kimi Räikkönen":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021alfaromeo.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020alfaromeo.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019alfaromeo.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Antonio Giovinazzi":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021alfaromeo.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020alfaromeo.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019alfaromeo.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Esteban Ocon":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021alpine.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020renault.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Fernando Alonso":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021alpine.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "George Russell":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021williams.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020williams.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019williams.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Robert Kubica":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2019:
+                                        <td><img src="/2019cars/2019williams.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Nicholas Latifi":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021williams.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020williams.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Kevin Magnussen":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2020:
+                                        <td><img src="/2020cars/2020haas.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019haas.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Romain Grosjean":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2020:
+                                        <td><img src="/2020cars/2020haas.png" alt="" border=3 height=40px width=140px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019haas.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Nikita Mazepin":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021haas.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            case "Mick Schumacher":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021haas.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>-</td>
+                                        break;
+                                }
+                                break;
+                            
+                            default:
+                                break;
+                        }
+                        <td>@infoRes</td>
+
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@functions{
+
+    private string _racename;
+    [Parameter]
+    public string racename{
+      get { 
+          return _racename==null ? string.Empty : _racename;
+      }
+      set { _racename = value;} 
+    }
+}
+
+
+@code{
+
+    private List<List<string>> resultados = new List<List<string>>();
+    private int epocaPretendida;
+    
+        
+    protected override async Task OnAfterRenderAsync(bool firstRender){
+        
+        string[] split =  Regex.Split(racename, @"(?<!^)(?=x)");//separar por letras maíusculas
+
+        string newThing = Regex.Replace(split[1], "x", "");
+        epocaPretendida = Int32.Parse(newThing);
+        
+        if (firstRender){
+            resultados = await _dbResultado.ResultadosProva(racename);            
+            StateHasChanged();
+        }
+        else
+        {
+            resultados = await _dbResultado.ResultadosProva(racename);
+            StateHasChanged();
+        }
+    }
+}

@@ -1,0 +1,338 @@
+@page "/equipasepilotos"
+
+@using LightsOut.Data;
+@using DataAccessLibrary;
+@using DataAccessLibrary.Models;
+
+@inject IEquipaData _dbEquipa
+@inject PageHistoryState PageHistoryState
+
+
+<div class="row">
+    <div class="filtros">
+        <div class="row">
+            <button type="button" @onclick="PrevEpoca">&#8249</button>
+            <p>Época @(epocaPretendida-1)/@epocaPretendida</p>
+            <button type="button" @onclick="ProxEpoca">&#8250</button>
+        </div>
+    </div>
+</div>
+<div class="info">
+    @if (equipas == null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Equipa</th>
+                    @switch (@epocaPretendida)
+                    {
+                        case 2021:
+                            <th>Veículo</th>
+                            break;
+
+                        case 2020:
+                            <th>Veículo</th>
+                            break;
+
+                        case 2019:
+                            <th>Veículo</th>
+                            break;
+
+                        default:
+                            <th>Nacionalidade</th>
+                            break;
+                    }
+
+                    <th>Piloto Principal</th>
+                    <th>Piloto Secundário</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var equipa in equipas)
+                {
+                    <tr>
+                        <td>@equipa.nome</td>
+                        @switch (@equipa.nome)
+                        {
+                            case "Mercedes":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021mercedes.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020mercedes.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019mercedes.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Red Bull":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021redbull.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020redbull.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019redbull.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+
+                            case "McLaren":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021mclaren.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020mclaren.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019mclaren.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Ferrari":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021ferrari.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020ferrari.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019ferrari.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+
+                            case "AlphaTauri":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021alphatauri.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020alphaTauri.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Toro Rosso":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2019:
+                                        <td><img src="/2019cars/2019tororosso.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Aston Martin":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021astonmartin.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Racing Point":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2020:
+                                        <td><img src="/2020cars/2020racingpoint.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019racingpoint.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Alfa Romeo":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021alfaromeo.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020alfaromeo.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019alfaromeo.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Alpine F1 Team":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021alpine.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Renault":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2020:
+                                        <td><img src="/2020cars/2020renault.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019renault.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Williams":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021williams.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020williams.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019williams.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+
+                            case "Haas F1 Team":
+
+                                @switch (epocaPretendida)
+                                {
+                                    case 2021:
+                                        <td><img src="/2021cars/2021haas.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2020:
+                                        <td><img src="/2020cars/2020haas.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    case 2019:
+                                        <td><img src="/2019cars/2019haas.png" alt="" border=3 height=60px width=200px></td>
+                                        break;
+                                    default:
+                                        <td>@equipa.nacionalidade</td>
+                                        break;
+                                }
+                                break;
+                            default:
+                                <td>@equipa.nacionalidade</td>
+                                break;
+
+                        }
+
+
+                        @foreach (var piloto in equipa.pilotos)
+                        {
+                            <td>@piloto</td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+@code {
+
+    private List<EquipaModel> equipas = new List<EquipaModel>();
+    private int epocaPretendida = 2021;
+
+    private void ProxEpoca()
+    {
+        if (epocaPretendida <= 2020)
+        {
+            epocaPretendida++;
+            StateHasChanged();
+        }
+    }
+
+    protected void PrevEpoca()
+    {
+        if (epocaPretendida >= 2001)
+        {
+            epocaPretendida--;
+            StateHasChanged();
+        }
+    }
+
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            equipas = await _dbEquipa.GetEquipasEpoca(epocaPretendida);
+            StateHasChanged();
+        }
+        else
+        {
+            equipas = await _dbEquipa.GetEquipasEpoca(epocaPretendida);
+            StateHasChanged();
+
+        }
+
+        PageHistoryState.AddPageToHistory("/equipasepilotos");
+    }
+}

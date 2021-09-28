@@ -1,0 +1,179 @@
+@page "/notificacoes"
+@page "/notificacoes/{racename}"
+
+@using LightsOut.Data;
+@using Append.Blazor.Notifications;
+@using System.Text.RegularExpressions;
+
+@inject NavigationManager NavigationManager
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject INotificationService NotificationService
+@inject Blazored.SessionStorage.ISessionStorageService sessionStorage
+@inject PageHistoryState PageHistoryState
+@inject INotificacaoData _dbNotificacao 
+
+<div class="menuNotificacoes">
+    
+    <h1>Receber Notificações @racename</h1>
+    <div class="row">
+        <div class="imagem">
+            @switch (@country)
+            {
+                case "British":
+                    <img src="Circuitos/greatBritain.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Azerbaijan":
+                    <img src="Circuitos/azerbaijan.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Abu":
+                    <img src="Circuitos/abudhabi.png" alt="" border=3 height=200px width=350px>
+                    break;  
+                case "Australian":
+                    <img src="Circuitos/australian.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Austrian":
+                    <img src="Circuitos/austria.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Bahrain":
+                    <img src="Circuitos/bahrain.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Belgian":
+                    <img src="Circuitos/belgium.png" alt="" border=3 height=200px width=350px>
+                    break;                
+                case "Brazilian":
+                    <img src="Circuitos/brazil.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Dutch":
+                    <img src="Circuitos/netherlands.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Emilia":
+                    <img src="Circuitos/italy.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "French":
+                    <img src="Circuitos/franca.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Hungarian":
+                    <img src="Circuitos/hungary.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Italian":
+                    <img src="Circuitos/italy.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Japanese":
+                    <img src="Circuitos/japan.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Mexico":
+                    <img src="Circuitos/mexico.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Monaco":
+                    <img src="Circuitos/monaco.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Portuguese":
+                    <img src="Circuitos/portugal.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Russian":
+                    <img src="Circuitos/russia.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Saudi":
+                    <img src="Circuitos/saudi.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Singapore":
+                    <img src="Circuitos/singapore.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Spanish":
+                    <img src="Circuitos/spain.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "Styrian":
+                    <img src="Circuitos/netherlands.png" alt="" border=3 height=200px width=350px>
+                    break;
+                case "United":
+                    <img src="Circuitos/usa.png" alt="" border=3 height=200px width=350px>
+                    break;
+                default:
+                    break;
+            }
+        </div>
+        <button type="button" class="btn btn-primary" @onclick="CreateNotifcationAsync">Criar Notificação</button>
+    </div>
+</div>
+
+@functions{
+
+    private string _racename; 
+
+    [Parameter]
+    public string racename
+    {
+      get { 
+          return _racename==null ? string.Empty : _racename;
+      }
+      set { _racename = value;} 
+    }
+
+    private PermissionType permission;
+    private string country = "";
+    private bool isSupportedByBrowser;
+
+    protected override async Task OnInitializedAsync()
+    {
+        isSupportedByBrowser = await NotificationService.IsSupportedByBrowserAsync();
+        string[] split =  Regex.Split(racename, @"(?<!^)(?=[A-Z])");//separar por letras maíusculas
+
+        country = split[0];
+    }
+
+    private async Task CreateNotifcationAsync()
+    {
+        string username = await sessionStorage.GetItemAsync<string>("username");
+        string res = await _dbNotificacao.AddNotificacao(username, racename);
+
+        if (res == "Utilizador não Existe!")
+        {
+            var options = new NotificationOptions
+            {
+                Body = "Para receber notificações das Provas, terá de estar autenticado!",
+                Renotify = true,
+                RequireInteraction = true
+            };
+            NavigationManager.NavigateTo("/login");
+            await NotificationService.CreateAsync("Autenticação Necessária!", options);
+        }
+        else
+        {
+            if (res == "Notificação já Existe!")
+            {
+                var options = new NotificationOptions
+                {
+                    Body = "A Notificação pretendida já se encontrava registada!",
+                    Renotify = true,
+                    RequireInteraction = true
+                };
+
+                
+                await NotificationService.CreateAsync("Notificação já Existe!", options);
+                
+                if (PageHistoryState.CanGoBack()){
+                    NavigationManager.NavigateTo(PageHistoryState.GetGoBackPage());
+                }
+                
+            }
+            else
+            {
+                
+                var options = new NotificationOptions
+                {
+                    Body = String.Format("Notificação da prova \'{0}\' registada com sucesso!", racename),
+                    Renotify = true,
+                    RequireInteraction = true
+                };
+
+                await NotificationService.CreateAsync("Notificação Adicionada!", options);
+                NavigationManager.NavigateTo("http://localhost:5000/mapaProvas");
+            }
+        }
+    }
+    
+    private async Task RequestPermission()
+    {
+        permission = await NotificationService.RequestPermissionAsync();
+    }
+}

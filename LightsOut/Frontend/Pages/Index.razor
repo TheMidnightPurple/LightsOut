@@ -1,0 +1,46 @@
+@page "/"
+
+@using LightsOut.Data
+
+@inject PageHistoryState PageHistoryState
+
+<div class="section">
+    <div class="video-container">
+        <div class="color-overlay"></div>
+        <video autoplay muted loop>
+            <source src="video.mp4" type="video/mp4">
+        </video>
+        <div class="overlay">
+            <AuthorizeView>
+                <Authorized>
+                    <h1>Bem-Vindo ao LightsOut</h1>
+                    <h2>@context.User.Identity.Name</h2>
+                </Authorized>
+                <NotAuthorized>
+                    <h1>Bem-Vindo ao LightsOut</h1>
+                    <h2>O Sistema de Monitorização de Eventos de F1</h2>
+                </NotAuthorized>
+            </AuthorizeView>
+            
+        </div>
+    </div>
+</div>
+
+@code{
+
+    string time = "";
+    
+    protected override void OnInitialized()
+    {
+        TimerService.UpdateEvent += async date =>
+        {
+            await InvokeAsync(() =>
+            {
+                time += date;
+                StateHasChanged();
+            });
+        };
+        
+        PageHistoryState.AddPageToHistory("http://localhost:5000");
+    }
+}

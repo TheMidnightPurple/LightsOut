@@ -1,0 +1,76 @@
+﻿@using LightsOut.Data
+
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject PageHistoryState PageHistoryState
+@inject NavigationManager NavigationManager
+
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-black mb-3 fixed-top">
+    <div class="container">
+
+        <a class="navbar-brand" href="" Match="NavLinkMatch.All">
+            <img src="1.png">
+        </a>
+
+        <div class="@NavMenuCssClass navbar-collapse d-sm-inline-flex flex-sm-row-reverse" @onclick="CollapseNavMenu">
+            <ul class="navbar-nav flex-grow-1">
+                <AuthorizeView>
+                    <Authorized>
+                        <li class="nav-item">
+                            <a href="mapaProvas">Mapa de Provas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="classificacoesGerais">Classificações Gerais</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="equipasepilotos">Equipas e Pilotos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/" @onclick="(() => Logout())">Log Out</a>
+                        </li>
+                    </Authorized>
+                    <NotAuthorized>
+                         <li class="nav-item">
+                             <a href="mapaProvas">Mapa de Provas</a>
+                             </li>
+                        <li class="nav-item">
+                            <a href="classificacoesGerais">Classificações Gerais</a>
+                            </li>
+                        <li class="nav-item">
+                            <a href="equipasepilotos">Equipas e Pilotos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="login">Login</a>
+                        </li>
+                    </NotAuthorized>
+                </AuthorizeView>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+@code {
+    bool collapseNavMenu = true;
+
+    string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+
+    void CollapseNavMenu()
+    {
+        collapseNavMenu = true;
+    }
+
+    public void Logout()
+    {
+        ((CustomAuthenticationStateProvider)AuthenticationStateProvider).MarkUserAsLoggedOut();
+        if (PageHistoryState.CanGoBack()){
+            NavigationManager.NavigateTo("http://localhost:5000");
+        }
+        
+    }
+    
+}

@@ -1,0 +1,133 @@
+.classificacoes{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.classificacoes h1{
+    color: #fff;
+    text-align: center;
+}
+
+/*butões trás e frente*/
+.filtros{
+    margin-top: 3.5rem;
+    display: flex;
+    margin-left: 27%;
+}
+
+.filtros .row{
+    margin-left: 5rem;
+}
+
+.row h1 {
+    margin-top: 5rem;
+    margin-left: 13rem;
+    color: #fff;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.row{
+    margin-bottom: 0.6rem;
+}
+
+.row p{
+   color: white;
+   margin-top: 10px;
+   width: 150px;
+   text-align: center;
+   font-weight: bold;
+}
+
+button{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    border: 2px solid white;
+    background-color: black;
+    background-color: rgb(0, 0, 0);/*cor do butão*/
+    color: rgb(27, 230, 213);/*cor da letra*/
+    border: 2px solid white;
+    border-radius: 50%;
+    /*outline: none;*/
+}
+
+button:hover {
+    background-color: rgb(255, 255, 255);/*cor do butão*/
+    color: rgb(0, 0, 0);/*cor da letra*/
+}
+
+
+/*tabelas*/
+.leftTable{
+    width: 40%;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    padding: 20px;
+    background: rgb(31, 31, 31);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;/*quão curva é a borda*/
+    overflow: auto;
+    height: calc(100vh - 90px);/*faz com que barra de scroll apareça*/
+    max-height: 60vh;/*tamanho da tabela*/
+}
+
+.rightTable{
+    width: 40%;
+    position: absolute;
+    top: 20%;
+    right: 5%;
+    padding: 20px;
+    background: rgb(31, 31, 31);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;/*quão curva é a borda*/
+    overflow: auto;
+    height: calc(100vh - 90px);/*faz com que barra de scroll apareça*/
+    max-height: 60vh;/*tamanho da tabela*/
+}
+
+.leftTable h1{/*palavra Classificação Geral Pilotos*/
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+
+.rightTable h1{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;/*palavra Classificação Geral Equipas*/
+    font-size: 1.8rem;
+}
+
+.skillBox{
+    box-sizing: border-box;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.skillBox p{/*nome dos pilotos e isso*/
+    color: white;
+    margin: 0 0 10px;
+    padding: 0;
+    letter-spacing: 1px;
+    font-size: 1rem;
+}
+
+
+
+.skill{
+    background: #262626;/*cor de fundo das barras não ocupadas*/
+    padding: 4px;
+    box-sizing: border-box;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 2px;
+}
+

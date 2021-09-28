@@ -1,0 +1,331 @@
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\appsettings.Development.json
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\appsettings.json
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.StaticWebAssets.xml
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.exe
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.deps.json
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.runtimeconfig.json
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.runtimeconfig.dev.json
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.dll
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\ref\LightsOut.dll
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.pdb
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.Views.dll
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.Views.pdb
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.csprojAssemblyReference.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.AssemblyInfoInputs.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.AssemblyInfo.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.csproj.CoreCompileInputs.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorComponent.input.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\ClassificacoesGerais.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\EquipasEPilotos.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\LoginPage.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\MapaProvas.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorComponent.output.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\LightsOut.dll
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.TagHelpers.input.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.TagHelpers.output.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorCoreGenerate.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\App.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\ClassificacoesGerais.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\EquipasEPilotos.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\LoginPage.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\MapaProvas.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorAssemblyInfo.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorAssemblyInfo.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\staticwebassets\LightsOut.StaticWebAssets.Manifest.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\staticwebassets\LightsOut.StaticWebAssets.xml
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\ClassificacoesGerais.razor.rz.scp.css
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\EquipasEPilotos.razor.rz.scp.css
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\Index.razor.rz.scp.css
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\LoginPage.razor.rz.scp.css
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\MapaProvas.razor.rz.scp.css
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\bundle\LightsOut.styles.css
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\projectbundle\LightsOut.bundle.scp.css
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorTargetAssemblyInfo.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorTargetAssemblyInfo.cs
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.Views.pdb
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.dll
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\ref\LightsOut.dll
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.pdb
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.genruntimeconfig.cache
+c:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.csproj.CopyComplete
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\bin\Debug\net5.0\appsettings.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\bin\Debug\net5.0\LightsOut.exe
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\bin\Debug\net5.0\LightsOut.StaticWebAssets.xml
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\bin\Debug\net5.0\LightsOut.deps.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\bin\Debug\net5.0\LightsOut.runtimeconfig.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\bin\Debug\net5.0\LightsOut.runtimeconfig.dev.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\bin\Debug\net5.0\LightsOut.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\bin\Debug\net5.0\ref\LightsOut.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\bin\Debug\net5.0\LightsOut.pdb
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\bin\Debug\net5.0\LightsOut.Views.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\bin\Debug\net5.0\LightsOut.Views.pdb
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.csprojAssemblyReference.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.AssemblyInfoInputs.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.AssemblyInfo.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.RazorComponent.input.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\Pages\ClassificacoesGerais.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\Pages\EquipasEPilotos.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\Pages\LoginPage.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\Pages\MapaProvas.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.RazorComponent.output.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\RazorDeclaration\LightsOut.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.TagHelpers.input.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.TagHelpers.output.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.RazorCoreGenerate.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\Pages\ClassificacoesGerais.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\Pages\EquipasEPilotos.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\Pages\LoginPage.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\Pages\MapaProvas.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.RazorAssemblyInfo.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.RazorAssemblyInfo.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\staticwebassets\LightsOut.StaticWebAssets.Manifest.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\staticwebassets\LightsOut.StaticWebAssets.xml
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\scopedcss\Pages\ClassificacoesGerais.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\scopedcss\Pages\EquipasEPilotos.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\scopedcss\Pages\FetchData.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\scopedcss\Pages\LoginPage.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\scopedcss\Pages\MapaProvas.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\scopedcss\bundle\LightsOut.styles.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\scopedcss\projectbundle\LightsOut.bundle.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.RazorTargetAssemblyInfo.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.RazorTargetAssemblyInfo.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.Views.pdb
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\ref\LightsOut.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.pdb
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.genruntimeconfig.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\obj\Debug\net5.0\LightsOut.csproj.CopyComplete
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\appsettings.Development.json
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\appsettings.json
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.StaticWebAssets.xml
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.exe
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.deps.json
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.runtimeconfig.json
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.runtimeconfig.dev.json
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\ref\LightsOut.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.pdb
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.Views.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.Views.pdb
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.csprojAssemblyReference.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.AssemblyInfoInputs.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.AssemblyInfo.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.csproj.CoreCompileInputs.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.MvcApplicationPartsAssemblyInfo.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorComponent.input.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\ClassificacoesGerais.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\EquipasEPilotos.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\LoginPage.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\MapaProvas.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorComponent.output.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\LightsOut.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.TagHelpers.input.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.TagHelpers.output.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorCoreGenerate.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\ClassificacoesGerais.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\EquipasEPilotos.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\LoginPage.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\MapaProvas.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorAssemblyInfo.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorAssemblyInfo.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\staticwebassets\LightsOut.StaticWebAssets.Manifest.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\staticwebassets\LightsOut.StaticWebAssets.xml
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\ClassificacoesGerais.razor.rz.scp.css
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\EquipasEPilotos.razor.rz.scp.css
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\FetchData.razor.rz.scp.css
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\Index.razor.rz.scp.css
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\LoginPage.razor.rz.scp.css
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\MapaProvas.razor.rz.scp.css
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\bundle\LightsOut.styles.css
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\projectbundle\LightsOut.bundle.scp.css
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorTargetAssemblyInfo.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorTargetAssemblyInfo.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.Views.pdb
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\ref\LightsOut.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.pdb
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.genruntimeconfig.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.csproj.CopyComplete
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.csprojAssemblyReference.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.AssemblyInfoInputs.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.AssemblyInfo.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorComponent.input.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\ClassificacoesGerais.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\EquipasEPilotos.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\MapaProvas.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorComponent.output.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\ref\LightsOut.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.pdb
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\appsettings.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.StaticWebAssets.xml
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.exe
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.deps.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.runtimeconfig.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.runtimeconfig.dev.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\ref\LightsOut.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.pdb
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.Views.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\LightsOut.Views.pdb
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\Dapper.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\LightsOut.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.TagHelpers.input.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.TagHelpers.output.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorCoreGenerate.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\ClassificacoesGerais.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\EquipasEPilotos.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\MapaProvas.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorAssemblyInfo.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorAssemblyInfo.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\staticwebassets\LightsOut.StaticWebAssets.Manifest.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\staticwebassets\LightsOut.StaticWebAssets.xml
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\ClassificacoesGerais.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\EquipasEPilotos.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\FetchData.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\MapaProvas.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\bundle\LightsOut.styles.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\projectbundle\LightsOut.bundle.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorTargetAssemblyInfo.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.RazorTargetAssemblyInfo.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.Views.pdb
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.csproj.CopyComplete
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\LightsOut.genruntimeconfig.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\LoginPage.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\LoginPage.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut_errado\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\LoginPage.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\Dapper.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\ResultadoEQualificacao.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\ResultadoEQualificacao.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\ResultadoEQualificacao.razor.rz.scp.css
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\Dapper.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\ResultadoEQualificacao.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\ResultadoEQualificacao.razor.g.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\ResultadoEQualificacao.razor.rz.scp.css
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Frontend\bin\Debug\net5.0\Append.Blazor.Notifications.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\Append.Blazor.Notifications.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\Blazored.SessionStorage.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\Bunit.Core.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\RazorDeclaration\Pages\Notificacoes.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\Razor\Pages\Notificacoes.razor.g.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Debug\net5.0\scopedcss\Pages\Notificacoes.razor.rz.scp.css
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\DataAccessLibrary.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\bin\Debug\net5.0\DataAccessLibrary.pdb

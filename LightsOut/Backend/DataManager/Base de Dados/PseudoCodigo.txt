@@ -1,0 +1,78 @@
+Table Utilizador as U {
+  id int [pk, increment]
+  nome varchar
+  password varchar
+}
+
+Table Notificacao {
+  id int [pk, increment] 
+  idUtilizador int [ref: > Utilizador.id]
+  idProva varchar [ref: > Prova.id]
+}
+
+Table Prova {
+  id varchar [pk]
+  idEpoca int [ref: > Epoca.ano]
+  ronda int
+  nomeProva varchar
+  data date
+  horaProva time
+  idLocalizacao varchar [ref: > Localizacao.id]
+  }
+
+Table Epoca {
+  ano int [pk]
+}
+
+Table Localizacao {
+  id varchar [pk]
+  nome varchar
+  nacionalidade varchar [ref: > Pais.nome]
+  latitude float
+  longitude float
+}
+
+Table Qualificacao {
+  id int [pk, increment]
+  idProva varchar [ref: > Prova.id]
+  idPiloto varchar [ref: > Piloto.id]
+  posicaoQualificacao int
+  qualificacao1 varchar
+  qualificacao2 varchar
+  qualificacao3 varchar
+}
+
+Table Resultado {
+  id int [pk, increment]
+  idProva varchar [ref: > Prova.id]
+  idPiloto varchar [ref: > Piloto.id]
+  posicaoFinal int
+  posicaoInicial int
+  tempo varchar
+  pontos int
+  estado varchar
+}
+
+Table Piloto {
+  id varchar [pk]
+  nome varchar
+}
+
+Table PilotoEquipa {
+  id int [pk, increment] 
+  idPiloto varchar [ref: > Piloto.id]
+  idEquipa varchar [ref: > Equipa.id]
+  idEpoca int [ref: > Epoca.ano]
+}
+
+Table Equipa {
+  id varchar [pk]
+  nome varchar
+  nacionalidade varchar
+}
+
+Table Pais {
+  nome varchar [pk]
+  nacionalidade varchar
+}
+

@@ -1,0 +1,132 @@
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Backend.exe
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Backend.deps.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Backend.runtimeconfig.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Backend.runtimeconfig.dev.json
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Backend.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\ref\Backend.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Backend.pdb
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Dapper.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Z.Dapper.Plus.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.csprojAssemblyReference.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.AssemblyInfoInputs.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.AssemblyInfo.cs
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.csproj.CopyComplete
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\obj\Debug\net5.0\ref\Backend.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.pdb
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.genruntimeconfig.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.csprojAssemblyReference.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.AssemblyInfoInputs.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.AssemblyInfo.cs
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.csproj.CoreCompileInputs.cache
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\obj\Debug\net5.0\ref\Backend.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.pdb
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Backend.exe
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Backend.deps.json
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Backend.runtimeconfig.json
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Backend.runtimeconfig.dev.json
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Backend.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\ref\Backend.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Backend.pdb
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Dapper.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Http.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Routing.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Core.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.WebSockets.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.ObjectPool.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Net.Http.Headers.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\Z.Dapper.Plus.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.csproj.CopyComplete
+D:\DEV\GitHub projects\LI4-20-21\LightsOut\Backend\DataManager\obj\Debug\net5.0\Backend.genruntimeconfig.cache
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Blazored.SessionStorage.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Bunit.Core.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Http.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Routing.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\Microsoft.Net.Http.Headers.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Backend\DataManager\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll

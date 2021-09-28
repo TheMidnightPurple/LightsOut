@@ -1,0 +1,33 @@
+.menuNotificacoes[b-fz5cgtdj4r]{
+    margin-top: 10%;
+    margin-left: 23%;
+    width: 60%;
+    height: 300px;
+    border: 5px solid rgb(255, 255, 255);
+    background-image: linear-gradient(90deg, rgb(0, 0, 0) 20%, rgb(0, 0, 0) 100%);
+    border-radius: 5px;
+}
+
+.menuNotificacoes h1[b-fz5cgtdj4r]{
+    margin-top: 1rem;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+
+button[b-fz5cgtdj4r]{
+    margin-top: 4rem;
+    margin-left: 60%;
+    margin-bottom: 4rem;
+    width: 200px;
+    height: 50px;
+    position: relative;
+}
+
+.imagem[b-fz5cgtdj4r]{
+    margin-top: 1rem;
+    margin-left: 10%;
+    position: absolute;
+}

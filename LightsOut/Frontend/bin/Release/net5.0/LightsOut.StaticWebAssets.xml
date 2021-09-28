@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Carlos Preto\Desktop\3ºAno MIEI\2º Semestre\LI4\LightsOut\Frontend\obj\Release\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Append.Blazor.Notifications" Path="C:\Users\Carlos Preto\.nuget\packages\append.blazor.notifications\1.0.1\build\..\staticwebassets\" />
+</StaticWebAssets>

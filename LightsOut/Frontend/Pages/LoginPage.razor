@@ -1,0 +1,62 @@
+@page "/login"
+
+@using LightsOut.Data;
+@using DataAccessLibrary;
+@using DataAccessLibrary.Models;
+@using Append.Blazor.Notifications
+
+@inject NavigationManager NavigationManager
+@inject INotificationService NotificationService
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject Blazored.SessionStorage.ISessionStorageService sessionStorage
+@inject PageHistoryState PageHistoryState
+@inject IUtilizadorData _dbUtilizador
+
+
+
+<div class="loginBox">
+    <img src="1.png" class="avatar">
+    <EditForm Model="@user" OnValidSubmit="@addUser">
+        <p>Username</p>
+        <input type="text" @bind="user.username" name="" placeholder="Enter Username">
+        <p>Password</p>
+        <input type="password" @bind="user.password" name="" placeholder="Enter Password">
+        <input type="submit" name="" value="Entrar">
+    </EditForm>
+</div>
+
+@code{
+
+    private UtilizadorModel user;
+
+    protected override Task OnInitializedAsync()
+    {
+        user = new UtilizadorModel();
+        return base.OnInitializedAsync();
+    }
+
+
+    public async void addUser()
+    {
+        await NotificationService.RequestPermissionAsync();
+
+        if (_dbUtilizador.addUserBaseDados(user.username, user.password))
+        {
+            ((CustomAuthenticationStateProvider)AuthenticationStateProvider).MarkUserAsAuthenticated(user.username);
+
+            NavigationManager.NavigateTo(PageHistoryState.GetGoBackPage());
+
+            await sessionStorage.SetItemAsync("username", user.username);
+        }
+        else
+        {
+            ((CustomAuthenticationStateProvider)AuthenticationStateProvider).MarkUserAsAuthenticated(user.username);
+
+            NavigationManager.NavigateTo(PageHistoryState.GetGoBackPage());
+
+            await sessionStorage.SetItemAsync("username", user.username);
+        }
+
+    }
+
+}
